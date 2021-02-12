@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **-> Flutter, Javascript, C# ASP .NET CORE and etc.**
 
-- 📫 How to reach me **-> patriotaeduarda@outlook.com**
-
 - ⚡ Fun fact **-> I watch too many movies and tv shows ^^**
 
 <h3 align="left">Connect with me:</h3>
