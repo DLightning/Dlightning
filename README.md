@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlightning&label=Profile%20views&color=0e75b6&style=flat" alt="dlightning" /> </p>
 
-- 🔭 I’m currently working on **-> Rueda & Rueda Advogados**
+- 🔭 I’m currently working on **-> **
 
 - 🌱 I’m currently learning **-> Flutter, Javascript, C# ASP .NET CORE and etc.**
 
-- ⚡ Fun fact **-> I watch too many movies and tv shows ^^**
+- ⚡ Fun fact **-> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
