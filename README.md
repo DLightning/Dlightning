@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduarda Patriota</h1>
-<h3 align="center">A passionate FullStack developer from Narnia</h3>
+<h3 align="center">A  FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlightning&label=Profile%20views&color=0e75b6&style=flat" alt="dlightning" /> </p>
 
-- 🔭 I’m currently working on **-> **
 
 - 🌱 I’m currently learning **-> Flutter, Javascript, C# ASP .NET CORE and etc.**
 
-- ⚡ Fun fact **-> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
