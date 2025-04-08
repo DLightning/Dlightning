@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Eduarda Patriota 👋</h1>
 
 <p align="center">
-  Mid-Level Developer | Flutter | .NET & C# Enthusiast | Passionate about tech and creative solutions
+  Developer | Flutter | .NET & C# Enthusiast | Passionate about tech and creative solutions
 </p>
 
 ---
